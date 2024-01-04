@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cdd7ec78a7b5347458cdd3c762c6f514, type: 3}
+  m_Name: FunGamesSettings
+  m_EditorClassIdentifier: 
+  version: 1.2
+  runCohort: 1
+  cohortTestName: cohortTest0
+  cohortPercentage: 0.2
+  runReplay: 1
+  GameAnalyticsIosGameKey: 0e7fbbe5a3a6382554e410415b7361c6
+  GameAnalyticsIosSecretKey: a05f82d53c7ac271e740fbe333566c79053f75aa
+  GameAnalyticsAndroidGameKey: 0e7fbbe5a3a6382554e410415b7361c6
+  GameAnalyticsAndroidSecretKey: a05f82d53c7ac271e740fbe333566c79053f75aa
+  maxSdkKey: 
+  iOSInterstitialAdUnitId: 2946983322048472_2969073963172741
+  iOSRewardedAdUnitId: 
+  iOSBannerAdUnitId: 2946983322048472_2969071429839661
+  androidInterstitialAdUnitId: 2946983322048472_2966791843400953
+  androidRewardedAdUnitId: 
+  androidBannerAdUnitId: 2946983322048472_2946984388715032

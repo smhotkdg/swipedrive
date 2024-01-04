@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "137192382587",
+    "firebase_url": "https://swipedrive-d787a.firebaseio.com",
+    "project_id": "swipedrive-d787a",
+    "storage_bucket": "swipedrive-d787a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137192382587:android:6474834c5a909bb3b782de",
+        "android_client_info": {
+          "package_name": "com.hoitstduio.swipedrive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "137192382587-ctsur4k9uc6j2bo7ok831s302ttoaqe3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8p06ZSu5jQAPPNPQ3Ga7x7fXw_rH_q6w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "137192382587-ctsur4k9uc6j2bo7ok831s302ttoaqe3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
